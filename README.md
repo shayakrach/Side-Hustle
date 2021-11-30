@@ -96,17 +96,8 @@ Distributed under the MIT License.
 
 <!-- CONTACT -->
 ## Contact
-
-Maor Shriki - (https://github.com/maorshriki) 
-
 Eden Maor - (https://github.com/edenmaor) 
 
 Assaf Gorovici - (https://github.com/assafg95) 
 
 Shay Rachmany - (https://github.com/shayakrach) 
-
-Yariv Ashkenszy - (https://github.com/AshkenYariv) 
-
-Project Link: [https://github.com/redhat-beyond/Side-Hustle](https://github.com/redhat-beyond/Side-Hustle)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
